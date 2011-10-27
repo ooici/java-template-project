@@ -1,0 +1,26 @@
+######################
+# Compilation directories
+######################
+lib
+build
+docs
+dist
+ivy-report
+MANIFEST.MF
+
+######################################
+# Transient settings sub-directories #
+######################################
+.settings/ivy-cache
+ivy-report
+.settings/override-repo
+.settings/ivy-publish/
+
+######################
+# OS generated files #
+######################
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+/bin/
